@@ -20,8 +20,6 @@ use_git()
 # Create and use personal access token (PAT) to link RStudio and Github
 create_github_token()
 
-  # Rose's token: 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
-
 gitcreds_set()
 
 # Connect Project to Repo 
