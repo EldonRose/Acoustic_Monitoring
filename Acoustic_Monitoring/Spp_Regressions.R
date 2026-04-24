@@ -1,8 +1,7 @@
 # Set wd
-setwd("C:/DesktopFolder/Eldon")
+setwd("C:/Users/rwetz/Desktop/R_WorkingDirectory/Acoustic_Monitoring/Acoustic_Monitoring")
 
 ## BLUE GROSBEAK ##
-
 # import a specified selection table:
 blugrb1 <- read.table("C:/DesktopFolder/Eldon/Blue_Grosbeak_Final.txt",
                     sep = "\t", header = TRUE)
@@ -101,3 +100,52 @@ curve(predict(model.uplsan, data.frame(Score = x), type = "response"),
 p <- 0.9 # your desired p (probability of true positive)
 score_threshold.uplsan <- (log(p/(1-p))-model.uplsan$coefficients[1]) /
   model.uplsan$coefficients[2]
+
+### Horned Lark ###
+# import a specified selection table:
+horlar <- read.table("C:/Users/rwetz/Desktop/R_WorkingDirectory/Acoustic_Monitoring/Acoustic_Monitoring/Horned_Lark_Final.txt",
+                      sep = "\t", header = TRUE)
+# ROSE FIGURE OUT HOW TO REMOVE DOUBLES!!
+
+# extract the numeric score from the file name:
+horlar$Score <- as.numeric(substr(horlar$Begin.File, 1, 5))
+
+# fit the logistic regression model:
+model.horlar <- glm(Valid ~ Score, family = "binomial", data = horlar)
+
+# plot the individual points (x = Score, y = Valid):
+plot(Valid~Score, data=horlar, xlim=c(0,1), pch=16,
+     col=rgb(0,0,0,.3))
+
+# add the modeled regression relationship (a curve):
+curve(predict(model.horlar, data.frame(Score = x), type = "response"),
+      add = TRUE, col = "red", lwd = 2)
+
+# compute score threshold for probability p of correct prediction:
+p <- 0.9 # your desired p (probability of true positive)
+score_threshold.horlar <- (log(p/(1-p))-model.horlar$coefficients[1]) /
+  model.horlar$coefficients[2]
+
+### Song Sparrow ###
+# import a specified selection table:
+sonspa <- read.table("C:/Users/rwetz/Desktop/R_WorkingDirectory/Acoustic_Monitoring/Acoustic_Monitoring/Song_Sparrow_Final.txt",
+                     sep = "\t", header = TRUE)
+
+# extract the numeric score from the file name:
+sonspa$Score <- as.numeric(substr(sonspa$Begin.File, 1, 5))
+
+# fit the logistic regression model:
+model.sonspa <- glm(Valid ~ Score, family = "binomial", data = sonspa)
+
+# plot the individual points (x = Score, y = Valid):
+plot(Valid~Score, data=sonspa, xlim=c(0,1), pch=16,
+     col=rgb(0,0,0,.3))
+
+# add the modeled regression relationship (a curve):
+curve(predict(model.sonspa, data.frame(Score = x), type = "response"),
+      add = TRUE, col = "red", lwd = 2)
+
+# compute score threshold for probability p of correct prediction:
+p <- 0.9 # your desired p (probability of true positive)
+score_threshold.sonspa <- (log(p/(1-p))-model.sonspa$coefficients[1]) /
+  model.sonspa$coefficients[2]
