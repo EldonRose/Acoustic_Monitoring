@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	711.0	714.0	0	15000	Field Sparrow	fiespa	0.3301	E:\AcousticMonitoringData\ELDON7_Data\Week15\ELDON7_20250418_185200.wav	711.0
+2	Spectrogram 1	1	984.0	987.0	0	15000	Field Sparrow	fiespa	0.0927	E:\AcousticMonitoringData\ELDON7_Data\Week15\ELDON7_20250418_185200.wav	984.0
+3	Spectrogram 1	1	1074.0	1077.0	0	15000	Horned Lark	horlar	0.1348	E:\AcousticMonitoringData\ELDON7_Data\Week15\ELDON7_20250418_185200.wav	1074.0
+4	Spectrogram 1	1	1317.0	1320.0	0	15000	Horned Lark	horlar	0.0671	E:\AcousticMonitoringData\ELDON7_Data\Week15\ELDON7_20250418_185200.wav	1317.0
+5	Spectrogram 1	1	1599.0	1602.0	0	15000	Eastern Meadowlark	easmea	0.0628	E:\AcousticMonitoringData\ELDON7_Data\Week15\ELDON7_20250418_185200.wav	1599.0
+6	Spectrogram 1	1	1770.0	1773.0	0	15000	Eastern Meadowlark	easmea	0.0843	E:\AcousticMonitoringData\ELDON7_Data\Week15\ELDON7_20250418_185200.wav	1770.0
+7	Spectrogram 1	1	1836.0	1839.0	0	15000	Eastern Meadowlark	easmea	0.3336	E:\AcousticMonitoringData\ELDON7_Data\Week15\ELDON7_20250418_185200.wav	1836.0
+8	Spectrogram 1	1	1845.0	1848.0	0	15000	Eastern Meadowlark	easmea	0.1053	E:\AcousticMonitoringData\ELDON7_Data\Week15\ELDON7_20250418_185200.wav	1845.0

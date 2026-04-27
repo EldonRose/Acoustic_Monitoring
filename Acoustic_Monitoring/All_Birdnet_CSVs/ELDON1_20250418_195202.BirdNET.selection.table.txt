@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	18.0	21.0	0	15000	Eastern Meadowlark	easmea	0.0742	E:\AcousticMonitoringData\ELDON1_Data\Week15\ELDON1_20250418_195202.wav	18.0
+2	Spectrogram 1	1	105.0	108.0	0	15000	Eastern Meadowlark	easmea	0.3043	E:\AcousticMonitoringData\ELDON1_Data\Week15\ELDON1_20250418_195202.wav	105.0
+3	Spectrogram 1	1	111.0	114.0	0	15000	Eastern Meadowlark	easmea	0.0844	E:\AcousticMonitoringData\ELDON1_Data\Week15\ELDON1_20250418_195202.wav	111.0
+4	Spectrogram 1	1	114.0	117.0	0	15000	Eastern Meadowlark	easmea	0.0565	E:\AcousticMonitoringData\ELDON1_Data\Week15\ELDON1_20250418_195202.wav	114.0
+5	Spectrogram 1	1	135.0	138.0	0	15000	Eastern Meadowlark	easmea	0.3124	E:\AcousticMonitoringData\ELDON1_Data\Week15\ELDON1_20250418_195202.wav	135.0
+6	Spectrogram 1	1	180.0	183.0	0	15000	Eastern Meadowlark	easmea	0.7254	E:\AcousticMonitoringData\ELDON1_Data\Week15\ELDON1_20250418_195202.wav	180.0

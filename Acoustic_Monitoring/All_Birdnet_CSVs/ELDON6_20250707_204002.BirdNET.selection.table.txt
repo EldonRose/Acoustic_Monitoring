@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	72.0	75.0	0	15000	Blue Grosbeak	blugrb1	0.0762	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	72.0
+2	Spectrogram 1	1	141.0	144.0	0	15000	Blue Grosbeak	blugrb1	0.0627	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	141.0
+3	Spectrogram 1	1	162.0	165.0	0	15000	Eastern Meadowlark	easmea	0.0624	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	162.0
+4	Spectrogram 1	1	168.0	171.0	0	15000	Blue Grosbeak	blugrb1	0.0637	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	168.0
+5	Spectrogram 1	1	231.0	234.0	0	15000	Eastern Meadowlark	easmea	0.1859	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	231.0
+6	Spectrogram 1	1	369.0	372.0	0	15000	Field Sparrow	fiespa	0.0582	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	369.0
+7	Spectrogram 1	1	1104.0	1107.0	0	15000	Common Yellowthroat	comyel	0.3203	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	1104.0
+8	Spectrogram 1	1	1107.0	1110.0	0	15000	Common Yellowthroat	comyel	0.3803	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	1107.0
+9	Spectrogram 1	1	1110.0	1113.0	0	15000	Common Yellowthroat	comyel	0.5116	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	1110.0
+10	Spectrogram 1	1	1113.0	1116.0	0	15000	Common Yellowthroat	comyel	0.3950	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	1113.0
+11	Spectrogram 1	1	1122.0	1125.0	0	15000	Common Yellowthroat	comyel	0.5954	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	1122.0
+12	Spectrogram 1	1	1131.0	1134.0	0	15000	Common Yellowthroat	comyel	0.1687	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	1131.0
+13	Spectrogram 1	1	1143.0	1146.0	0	15000	Common Yellowthroat	comyel	0.1780	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	1143.0
+14	Spectrogram 1	1	1224.0	1227.0	0	15000	Common Yellowthroat	comyel	0.0852	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	1224.0
+15	Spectrogram 1	1	1245.0	1248.0	0	15000	Common Yellowthroat	comyel	0.0652	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	1245.0
+16	Spectrogram 1	1	1257.0	1260.0	0	15000	Common Yellowthroat	comyel	0.1297	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	1257.0
+17	Spectrogram 1	1	1980.0	1983.0	0	15000	Blue Grosbeak	blugrb1	0.0895	S:\AcousticMonitoringData\ELDON6_Data\Week25\ELDON6_20250707_204002.wav	1980.0

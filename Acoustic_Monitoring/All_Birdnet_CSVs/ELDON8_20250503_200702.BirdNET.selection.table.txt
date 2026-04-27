@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	213.0	216.0	0	15000	Upland Sandpiper	uplsan	0.1813	D:\AcousticMonitoringData\ELDON8_Data\Week17\ELDON8_20250503_200702.wav	213.0
+2	Spectrogram 1	1	231.0	234.0	0	15000	Horned Lark	horlar	0.6259	D:\AcousticMonitoringData\ELDON8_Data\Week17\ELDON8_20250503_200702.wav	231.0
+3	Spectrogram 1	1	345.0	348.0	0	15000	Horned Lark	horlar	0.0719	D:\AcousticMonitoringData\ELDON8_Data\Week17\ELDON8_20250503_200702.wav	345.0
+4	Spectrogram 1	1	3495.0	3498.0	0	15000	Common Yellowthroat	comyel	0.0568	D:\AcousticMonitoringData\ELDON8_Data\Week17\ELDON8_20250503_200702.wav	3495.0
+5	Spectrogram 1	1	3564.0	3567.0	0	15000	Common Yellowthroat	comyel	0.0613	D:\AcousticMonitoringData\ELDON8_Data\Week17\ELDON8_20250503_200702.wav	3564.0

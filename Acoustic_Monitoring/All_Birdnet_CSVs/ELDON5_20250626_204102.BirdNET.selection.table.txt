@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2703.0	2706.0	0	15000	Song Sparrow	sonspa	0.0855	D:\AcousticMonitoringData\ELDON5_Data\Week24\ELDON5_20250626_204102.wav	2703.0

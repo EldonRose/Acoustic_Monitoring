@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	63.0	66.0	0	15000	Field Sparrow	fiespa	0.0550	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav	63.0
+2	Spectrogram 1	1	141.0	144.0	0	15000	Common Yellowthroat	comyel	0.0541	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav	141.0
+3	Spectrogram 1	1	552.0	555.0	0	15000	Field Sparrow	fiespa	0.0643	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav	552.0
+4	Spectrogram 1	1	552.0	555.0	0	15000	Eastern Meadowlark	easmea	0.0596	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav	552.0
+5	Spectrogram 1	1	999.0	1002.0	0	15000	Common Yellowthroat	comyel	0.0522	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav	999.0
+6	Spectrogram 1	1	1098.0	1101.0	0	15000	Common Yellowthroat	comyel	0.0516	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav	1098.0

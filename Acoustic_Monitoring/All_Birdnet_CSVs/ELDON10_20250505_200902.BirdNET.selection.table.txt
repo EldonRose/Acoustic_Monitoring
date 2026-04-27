@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	27.0	30.0	0	15000	Blue Grosbeak	blugrb1	0.0523	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	27.0
+2	Spectrogram 1	1	123.0	126.0	0	15000	Common Yellowthroat	comyel	0.0768	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	123.0
+3	Spectrogram 1	1	177.0	180.0	0	15000	Field Sparrow	fiespa	0.1559	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	177.0
+4	Spectrogram 1	1	318.0	321.0	0	15000	Field Sparrow	fiespa	0.4918	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	318.0
+5	Spectrogram 1	1	345.0	348.0	0	15000	Upland Sandpiper	uplsan	0.1735	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	345.0
+6	Spectrogram 1	1	366.0	369.0	0	15000	Field Sparrow	fiespa	0.4834	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	366.0
+7	Spectrogram 1	1	375.0	378.0	0	15000	Eastern Meadowlark	easmea	0.0705	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	375.0
+8	Spectrogram 1	1	450.0	453.0	0	15000	Common Yellowthroat	comyel	0.0511	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	450.0
+9	Spectrogram 1	1	498.0	501.0	0	15000	Field Sparrow	fiespa	0.4593	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	498.0
+10	Spectrogram 1	1	504.0	507.0	0	15000	Eastern Meadowlark	easmea	0.1167	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	504.0
+11	Spectrogram 1	1	561.0	564.0	0	15000	Field Sparrow	fiespa	0.0529	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	561.0
+12	Spectrogram 1	1	591.0	594.0	0	15000	Field Sparrow	fiespa	0.0909	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	591.0
+13	Spectrogram 1	1	693.0	696.0	0	15000	Field Sparrow	fiespa	0.0691	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	693.0
+14	Spectrogram 1	1	861.0	864.0	0	15000	Upland Sandpiper	uplsan	0.0554	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	861.0
+15	Spectrogram 1	1	2361.0	2364.0	0	15000	Common Yellowthroat	comyel	0.0524	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	2361.0
+16	Spectrogram 1	1	3558.0	3561.0	0	15000	Common Yellowthroat	comyel	0.0666	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	3558.0
+17	Spectrogram 1	1	3567.0	3570.0	0	15000	Common Yellowthroat	comyel	0.0539	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	3567.0
+18	Spectrogram 1	1	3585.0	3588.0	0	15000	Common Yellowthroat	comyel	0.0636	D:\AcousticMonitoringData\ELDON10_Data\Week17\ELDON10_20250505_200902.wav	3585.0

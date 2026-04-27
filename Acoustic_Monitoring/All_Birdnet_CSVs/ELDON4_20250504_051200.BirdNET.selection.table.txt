@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	858.0	861.0	0	15000	Song Sparrow	sonspa	0.0581	D:\AcousticMonitoringData\ELDON4_Data\Week17\ELDON4_20250504_051200.wav	858.0
+2	Spectrogram 1	1	1026.0	1029.0	0	15000	Horned Lark	horlar	0.0636	D:\AcousticMonitoringData\ELDON4_Data\Week17\ELDON4_20250504_051200.wav	1026.0
+3	Spectrogram 1	1	3084.0	3087.0	0	15000	Eastern Meadowlark	easmea	0.0574	D:\AcousticMonitoringData\ELDON4_Data\Week17\ELDON4_20250504_051200.wav	3084.0
+4	Spectrogram 1	1	3168.0	3171.0	0	15000	Field Sparrow	fiespa	0.0568	D:\AcousticMonitoringData\ELDON4_Data\Week17\ELDON4_20250504_051200.wav	3168.0
+5	Spectrogram 1	1	3186.0	3189.0	0	15000	Field Sparrow	fiespa	0.0522	D:\AcousticMonitoringData\ELDON4_Data\Week17\ELDON4_20250504_051200.wav	3186.0
+6	Spectrogram 1	1	3219.0	3222.0	0	15000	Eastern Meadowlark	easmea	0.1566	D:\AcousticMonitoringData\ELDON4_Data\Week17\ELDON4_20250504_051200.wav	3219.0
+7	Spectrogram 1	1	3240.0	3243.0	0	15000	Eastern Meadowlark	easmea	0.1397	D:\AcousticMonitoringData\ELDON4_Data\Week17\ELDON4_20250504_051200.wav	3240.0
+8	Spectrogram 1	1	3261.0	3264.0	0	15000	Eastern Meadowlark	easmea	0.0787	D:\AcousticMonitoringData\ELDON4_Data\Week17\ELDON4_20250504_051200.wav	3261.0
+9	Spectrogram 1	1	3600.0	3603.0	0	15000	Common Yellowthroat	comyel	0.0500	D:\AcousticMonitoringData\ELDON4_Data\Week17\ELDON4_20250504_051200.wav	3600.0

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	645.0	648.0	0	15000	Song Sparrow	sonspa	0.0504	E:\AcousticMonitoringData\ELDON5_Data\Week15\ELDON5_20250417_195102.wav	645.0
+2	Spectrogram 1	1	900.0	903.0	0	15000	Common Yellowthroat	comyel	0.0955	E:\AcousticMonitoringData\ELDON5_Data\Week15\ELDON5_20250417_195102.wav	900.0
+3	Spectrogram 1	1	918.0	921.0	0	15000	Song Sparrow	sonspa	0.0695	E:\AcousticMonitoringData\ELDON5_Data\Week15\ELDON5_20250417_195102.wav	918.0
+4	Spectrogram 1	1	951.0	954.0	0	15000	Song Sparrow	sonspa	0.0862	E:\AcousticMonitoringData\ELDON5_Data\Week15\ELDON5_20250417_195102.wav	951.0
+5	Spectrogram 1	1	1011.0	1014.0	0	15000	Song Sparrow	sonspa	0.0503	E:\AcousticMonitoringData\ELDON5_Data\Week15\ELDON5_20250417_195102.wav	1011.0
+6	Spectrogram 1	1	1932.0	1935.0	0	15000	Song Sparrow	sonspa	0.0854	E:\AcousticMonitoringData\ELDON5_Data\Week15\ELDON5_20250417_195102.wav	1932.0
+7	Spectrogram 1	1	1998.0	2001.0	0	15000	Song Sparrow	sonspa	0.0584	E:\AcousticMonitoringData\ELDON5_Data\Week15\ELDON5_20250417_195102.wav	1998.0
+8	Spectrogram 1	1	2673.0	2676.0	0	15000	Song Sparrow	sonspa	0.1011	E:\AcousticMonitoringData\ELDON5_Data\Week15\ELDON5_20250417_195102.wav	2673.0
+9	Spectrogram 1	1	3258.0	3261.0	0	15000	Song Sparrow	sonspa	0.0521	E:\AcousticMonitoringData\ELDON5_Data\Week15\ELDON5_20250417_195102.wav	3258.0

@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	705.0	708.0	0	15000	Horned Lark	horlar	0.0628	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	705.0
+2	Spectrogram 1	1	945.0	948.0	0	15000	Horned Lark	horlar	0.0638	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	945.0
+3	Spectrogram 1	1	1344.0	1347.0	0	15000	Horned Lark	horlar	0.0805	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	1344.0
+4	Spectrogram 1	1	1347.0	1350.0	0	15000	Horned Lark	horlar	0.0531	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	1347.0
+5	Spectrogram 1	1	1374.0	1377.0	0	15000	Horned Lark	horlar	0.0553	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	1374.0
+6	Spectrogram 1	1	2016.0	2019.0	0	15000	Horned Lark	horlar	0.0506	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	2016.0
+7	Spectrogram 1	1	2271.0	2274.0	0	15000	Upland Sandpiper	uplsan	0.0661	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	2271.0
+8	Spectrogram 1	1	2304.0	2307.0	0	15000	Upland Sandpiper	uplsan	0.1820	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	2304.0
+9	Spectrogram 1	1	2328.0	2331.0	0	15000	Horned Lark	horlar	0.0684	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	2328.0
+10	Spectrogram 1	1	2331.0	2334.0	0	15000	Horned Lark	horlar	0.0553	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	2331.0
+11	Spectrogram 1	1	2490.0	2493.0	0	15000	Horned Lark	horlar	0.0669	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	2490.0
+12	Spectrogram 1	1	2706.0	2709.0	0	15000	Upland Sandpiper	uplsan	0.1494	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	2706.0
+13	Spectrogram 1	1	2775.0	2778.0	0	15000	Upland Sandpiper	uplsan	0.0553	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	2775.0
+14	Spectrogram 1	1	2805.0	2808.0	0	15000	Upland Sandpiper	uplsan	0.0976	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	2805.0
+15	Spectrogram 1	1	2961.0	2964.0	0	15000	Upland Sandpiper	uplsan	0.0888	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	2961.0
+16	Spectrogram 1	1	3372.0	3375.0	0	15000	Upland Sandpiper	uplsan	0.0605	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	3372.0
+17	Spectrogram 1	1	3408.0	3411.0	0	15000	Upland Sandpiper	uplsan	0.0505	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	3408.0
+18	Spectrogram 1	1	3420.0	3423.0	0	15000	Upland Sandpiper	uplsan	0.0857	D:\AcousticMonitoringData\ELDON7_Data\Week24\ELDON7_20250626_204102.wav	3420.0

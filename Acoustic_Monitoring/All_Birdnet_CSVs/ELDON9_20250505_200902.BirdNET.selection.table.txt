@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	15000	Field Sparrow	fiespa	0.0736	D:\AcousticMonitoringData\ELDON9_Data\Week17\ELDON9_20250505_200902.wav	6.0
+2	Spectrogram 1	1	9.0	12.0	0	15000	Field Sparrow	fiespa	0.1086	D:\AcousticMonitoringData\ELDON9_Data\Week17\ELDON9_20250505_200902.wav	9.0
+3	Spectrogram 1	1	12.0	15.0	0	15000	Field Sparrow	fiespa	0.1267	D:\AcousticMonitoringData\ELDON9_Data\Week17\ELDON9_20250505_200902.wav	12.0
+4	Spectrogram 1	1	15.0	18.0	0	15000	Field Sparrow	fiespa	0.0784	D:\AcousticMonitoringData\ELDON9_Data\Week17\ELDON9_20250505_200902.wav	15.0
+5	Spectrogram 1	1	492.0	495.0	0	15000	Blue Grosbeak	blugrb1	0.1416	D:\AcousticMonitoringData\ELDON9_Data\Week17\ELDON9_20250505_200902.wav	492.0
+6	Spectrogram 1	1	822.0	825.0	0	15000	Blue Grosbeak	blugrb1	0.1570	D:\AcousticMonitoringData\ELDON9_Data\Week17\ELDON9_20250505_200902.wav	822.0
+7	Spectrogram 1	1	867.0	870.0	0	15000	Blue Grosbeak	blugrb1	0.1188	D:\AcousticMonitoringData\ELDON9_Data\Week17\ELDON9_20250505_200902.wav	867.0
+8	Spectrogram 1	1	969.0	972.0	0	15000	Blue Grosbeak	blugrb1	0.0572	D:\AcousticMonitoringData\ELDON9_Data\Week17\ELDON9_20250505_200902.wav	969.0
+9	Spectrogram 1	1	1089.0	1092.0	0	15000	Upland Sandpiper	uplsan	0.0713	D:\AcousticMonitoringData\ELDON9_Data\Week17\ELDON9_20250505_200902.wav	1089.0
+10	Spectrogram 1	1	1656.0	1659.0	0	15000	Upland Sandpiper	uplsan	0.0972	D:\AcousticMonitoringData\ELDON9_Data\Week17\ELDON9_20250505_200902.wav	1656.0
+11	Spectrogram 1	1	3534.0	3537.0	0	15000	Song Sparrow	sonspa	0.0713	D:\AcousticMonitoringData\ELDON9_Data\Week17\ELDON9_20250505_200902.wav	3534.0

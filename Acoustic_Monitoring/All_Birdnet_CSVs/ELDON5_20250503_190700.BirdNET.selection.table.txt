@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	15.0	18.0	0	15000	Eastern Meadowlark	easmea	0.0817	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	15.0
+2	Spectrogram 1	1	102.0	105.0	0	15000	Upland Sandpiper	uplsan	0.7460	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	102.0
+3	Spectrogram 1	1	138.0	141.0	0	15000	Upland Sandpiper	uplsan	0.4004	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	138.0
+4	Spectrogram 1	1	543.0	546.0	0	15000	Horned Lark	horlar	0.3440	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	543.0
+5	Spectrogram 1	1	666.0	669.0	0	15000	Horned Lark	horlar	0.0549	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	666.0
+6	Spectrogram 1	1	951.0	954.0	0	15000	Horned Lark	horlar	0.0848	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	951.0
+7	Spectrogram 1	1	2376.0	2379.0	0	15000	Eastern Meadowlark	easmea	0.0938	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	2376.0
+8	Spectrogram 1	1	3114.0	3117.0	0	15000	Eastern Meadowlark	easmea	0.0551	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	3114.0
+9	Spectrogram 1	1	3126.0	3129.0	0	15000	Eastern Meadowlark	easmea	0.0910	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	3126.0
+10	Spectrogram 1	1	3195.0	3198.0	0	15000	Eastern Meadowlark	easmea	0.0672	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	3195.0
+11	Spectrogram 1	1	3222.0	3225.0	0	15000	Eastern Meadowlark	easmea	0.3518	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	3222.0
+12	Spectrogram 1	1	3396.0	3399.0	0	15000	Eastern Meadowlark	easmea	0.0573	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	3396.0
+13	Spectrogram 1	1	3528.0	3531.0	0	15000	Horned Lark	horlar	0.1635	D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250503_190700.wav	3528.0
