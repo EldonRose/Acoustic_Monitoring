@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	846.0	849.0	0	15000	Horned Lark	horlar	0.3058	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav	846.0
+2	Spectrogram 1	1	1218.0	1221.0	0	15000	Horned Lark	horlar	0.0818	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav	1218.0
+3	Spectrogram 1	1	1461.0	1464.0	0	15000	Horned Lark	horlar	0.1000	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav	1461.0
+4	Spectrogram 1	1	2127.0	2130.0	0	15000	Eastern Meadowlark	easmea	0.0554	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav	2127.0
+5	Spectrogram 1	1	2256.0	2259.0	0	15000	Eastern Meadowlark	easmea	0.1067	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav	2256.0
+6	Spectrogram 1	1	2274.0	2277.0	0	15000	Eastern Meadowlark	easmea	0.0780	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav	2274.0
+7	Spectrogram 1	1	2307.0	2310.0	0	15000	Eastern Meadowlark	easmea	0.0911	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav	2307.0
+8	Spectrogram 1	1	3351.0	3354.0	0	15000	Common Yellowthroat	comyel	0.1667	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav	3351.0

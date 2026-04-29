@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2013.0	2016.0	0	15000	Horned Lark	horlar	0.0653	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	2013.0
+2	Spectrogram 1	1	3015.0	3018.0	0	15000	Horned Lark	horlar	0.0536	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	3015.0
+3	Spectrogram 1	1	3081.0	3084.0	0	15000	Upland Sandpiper	uplsan	0.1363	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	3081.0
+4	Spectrogram 1	1	3102.0	3105.0	0	15000	Upland Sandpiper	uplsan	0.0848	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	3102.0
+5	Spectrogram 1	1	3108.0	3111.0	0	15000	Horned Lark	horlar	0.0688	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	3108.0
+6	Spectrogram 1	1	3117.0	3120.0	0	15000	Upland Sandpiper	uplsan	0.0537	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	3117.0
+7	Spectrogram 1	1	3138.0	3141.0	0	15000	Upland Sandpiper	uplsan	0.1660	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	3138.0
+8	Spectrogram 1	1	3171.0	3174.0	0	15000	Upland Sandpiper	uplsan	0.4647	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	3171.0
+9	Spectrogram 1	1	3177.0	3180.0	0	15000	Upland Sandpiper	uplsan	0.1264	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	3177.0
+10	Spectrogram 1	1	3183.0	3186.0	0	15000	Upland Sandpiper	uplsan	0.4645	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	3183.0
+11	Spectrogram 1	1	3189.0	3192.0	0	15000	Upland Sandpiper	uplsan	0.6532	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	3189.0
+12	Spectrogram 1	1	3195.0	3198.0	0	15000	Upland Sandpiper	uplsan	0.0964	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250513_191600.wav	3195.0

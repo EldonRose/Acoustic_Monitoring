@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1149.0	1152.0	0	15000	Common Yellowthroat	comyel	0.1196	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1149.0
+2	Spectrogram 1	1	1167.0	1170.0	0	15000	Common Yellowthroat	comyel	0.2886	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1167.0
+3	Spectrogram 1	1	1194.0	1197.0	0	15000	Common Yellowthroat	comyel	0.2700	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1194.0
+4	Spectrogram 1	1	1236.0	1239.0	0	15000	Common Yellowthroat	comyel	0.1080	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1236.0
+5	Spectrogram 1	1	1254.0	1257.0	0	15000	Common Yellowthroat	comyel	0.0599	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1254.0
+6	Spectrogram 1	1	1269.0	1272.0	0	15000	Common Yellowthroat	comyel	0.1834	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1269.0
+7	Spectrogram 1	1	1818.0	1821.0	0	15000	Eastern Meadowlark	easmea	0.0573	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1818.0
+8	Spectrogram 1	1	1905.0	1908.0	0	15000	Eastern Meadowlark	easmea	0.0511	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1905.0
+9	Spectrogram 1	1	1965.0	1968.0	0	15000	Field Sparrow	fiespa	0.0572	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1965.0
+10	Spectrogram 1	1	1971.0	1974.0	0	15000	Common Yellowthroat	comyel	0.0549	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1971.0
+11	Spectrogram 1	1	1983.0	1986.0	0	15000	Field Sparrow	fiespa	0.1000	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1983.0
+12	Spectrogram 1	1	1986.0	1989.0	0	15000	Field Sparrow	fiespa	0.1108	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	1986.0
+13	Spectrogram 1	1	2016.0	2019.0	0	15000	Common Yellowthroat	comyel	0.0584	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2016.0
+14	Spectrogram 1	1	2031.0	2034.0	0	15000	Common Yellowthroat	comyel	0.0505	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2031.0
+15	Spectrogram 1	1	2043.0	2046.0	0	15000	Eastern Meadowlark	easmea	0.0685	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2043.0
+16	Spectrogram 1	1	2082.0	2085.0	0	15000	Eastern Meadowlark	easmea	0.0574	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2082.0
+17	Spectrogram 1	1	2103.0	2106.0	0	15000	Field Sparrow	fiespa	0.0559	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2103.0
+18	Spectrogram 1	1	2112.0	2115.0	0	15000	Field Sparrow	fiespa	0.0680	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2112.0
+19	Spectrogram 1	1	2130.0	2133.0	0	15000	Common Yellowthroat	comyel	0.0563	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2130.0
+20	Spectrogram 1	1	2160.0	2163.0	0	15000	Field Sparrow	fiespa	0.0521	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2160.0
+21	Spectrogram 1	1	2181.0	2184.0	0	15000	Field Sparrow	fiespa	0.0621	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2181.0
+22	Spectrogram 1	1	2184.0	2187.0	0	15000	Field Sparrow	fiespa	0.0561	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2184.0
+23	Spectrogram 1	1	2193.0	2196.0	0	15000	Eastern Meadowlark	easmea	0.0617	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2193.0
+24	Spectrogram 1	1	2241.0	2244.0	0	15000	Field Sparrow	fiespa	0.0730	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2241.0
+25	Spectrogram 1	1	2253.0	2256.0	0	15000	Field Sparrow	fiespa	0.0576	D:\AcousticMonitoringData\ELDON4_Data\Week20\ELDON4_20250526_045300.wav	2253.0

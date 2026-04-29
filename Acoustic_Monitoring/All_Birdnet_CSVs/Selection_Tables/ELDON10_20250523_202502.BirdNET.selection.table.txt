@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	921.0	924.0	0	15000	Field Sparrow	fiespa	0.9039	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	921.0
+2	Spectrogram 1	1	993.0	996.0	0	15000	Field Sparrow	fiespa	0.2672	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	993.0
+3	Spectrogram 1	1	1005.0	1008.0	0	15000	Field Sparrow	fiespa	0.4561	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1005.0
+4	Spectrogram 1	1	1011.0	1014.0	0	15000	Field Sparrow	fiespa	0.6564	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1011.0
+5	Spectrogram 1	1	1014.0	1017.0	0	15000	Field Sparrow	fiespa	0.5416	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1014.0
+6	Spectrogram 1	1	1017.0	1020.0	0	15000	Field Sparrow	fiespa	0.9341	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1017.0
+7	Spectrogram 1	1	1026.0	1029.0	0	15000	Field Sparrow	fiespa	0.6062	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1026.0
+8	Spectrogram 1	1	1035.0	1038.0	0	15000	Field Sparrow	fiespa	0.6903	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1035.0
+9	Spectrogram 1	1	1038.0	1041.0	0	15000	Field Sparrow	fiespa	0.8448	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1038.0
+10	Spectrogram 1	1	1050.0	1053.0	0	15000	Field Sparrow	fiespa	0.5194	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1050.0
+11	Spectrogram 1	1	1059.0	1062.0	0	15000	Field Sparrow	fiespa	0.4869	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1059.0
+12	Spectrogram 1	1	1062.0	1065.0	0	15000	Field Sparrow	fiespa	0.5027	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1062.0
+13	Spectrogram 1	1	1098.0	1101.0	0	15000	Field Sparrow	fiespa	0.7983	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1098.0
+14	Spectrogram 1	1	1119.0	1122.0	0	15000	Field Sparrow	fiespa	0.6461	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1119.0
+15	Spectrogram 1	1	1158.0	1161.0	0	15000	Field Sparrow	fiespa	0.8317	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1158.0
+16	Spectrogram 1	1	1173.0	1176.0	0	15000	Field Sparrow	fiespa	0.2858	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1173.0
+17	Spectrogram 1	1	1206.0	1209.0	0	15000	Field Sparrow	fiespa	0.6715	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1206.0
+18	Spectrogram 1	1	1209.0	1212.0	0	15000	Field Sparrow	fiespa	0.8041	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1209.0
+19	Spectrogram 1	1	1317.0	1320.0	0	15000	Field Sparrow	fiespa	0.8361	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1317.0
+20	Spectrogram 1	1	1320.0	1323.0	0	15000	Field Sparrow	fiespa	0.5208	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1320.0
+21	Spectrogram 1	1	1329.0	1332.0	0	15000	Field Sparrow	fiespa	0.7462	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1329.0
+22	Spectrogram 1	1	1332.0	1335.0	0	15000	Field Sparrow	fiespa	0.5453	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1332.0
+23	Spectrogram 1	1	1347.0	1350.0	0	15000	Field Sparrow	fiespa	0.9585	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1347.0
+24	Spectrogram 1	1	1350.0	1353.0	0	15000	Field Sparrow	fiespa	0.2817	D:\AcousticMonitoringData\ELDON10_Data\Week20\ELDON10_20250523_202502.wav	1350.0

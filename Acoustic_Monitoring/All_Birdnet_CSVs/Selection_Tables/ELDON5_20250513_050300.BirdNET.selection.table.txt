@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1281.0	1284.0	0	15000	Horned Lark	horlar	0.0111	D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav	1281.0
+2	Spectrogram 1	1	2175.0	2178.0	0	15000	Common Yellowthroat	comyel	0.0109	D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav	2175.0
+3	Spectrogram 1	1	2178.0	2181.0	0	15000	Common Yellowthroat	comyel	0.0209	D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav	2178.0
+4	Spectrogram 1	1	2577.0	2580.0	0	15000	Common Yellowthroat	comyel	0.0160	D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav	2577.0
+5	Spectrogram 1	1	2622.0	2625.0	0	15000	Common Yellowthroat	comyel	0.0116	D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav	2622.0
+6	Spectrogram 1	1	2763.0	2766.0	0	15000	Horned Lark	horlar	0.0176	D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav	2763.0
+7	Spectrogram 1	1	2862.0	2865.0	0	15000	Horned Lark	horlar	0.0749	D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav	2862.0
+8	Spectrogram 1	1	2874.0	2877.0	0	15000	Common Yellowthroat	comyel	0.0140	D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav	2874.0

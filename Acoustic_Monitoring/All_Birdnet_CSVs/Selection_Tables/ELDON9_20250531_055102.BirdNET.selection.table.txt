@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	135.0	138.0	0	15000	Common Yellowthroat	comyel	0.2984	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	135.0
+2	Spectrogram 1	1	171.0	174.0	0	15000	Common Yellowthroat	comyel	0.5156	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	171.0
+3	Spectrogram 1	1	321.0	324.0	0	15000	Common Yellowthroat	comyel	0.2802	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	321.0
+4	Spectrogram 1	1	345.0	348.0	0	15000	Common Yellowthroat	comyel	0.2584	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	345.0
+5	Spectrogram 1	1	624.0	627.0	0	15000	Common Yellowthroat	comyel	0.2695	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	624.0
+6	Spectrogram 1	1	675.0	678.0	0	15000	Common Yellowthroat	comyel	0.2832	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	675.0
+7	Spectrogram 1	1	798.0	801.0	0	15000	Common Yellowthroat	comyel	0.2537	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	798.0
+8	Spectrogram 1	1	936.0	939.0	0	15000	Common Yellowthroat	comyel	0.3078	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	936.0
+9	Spectrogram 1	1	1380.0	1383.0	0	15000	Common Yellowthroat	comyel	0.4797	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	1380.0
+10	Spectrogram 1	1	2076.0	2079.0	0	15000	Common Yellowthroat	comyel	0.2715	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	2076.0
+11	Spectrogram 1	1	2088.0	2091.0	0	15000	Common Yellowthroat	comyel	0.4317	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	2088.0
+12	Spectrogram 1	1	2283.0	2286.0	0	15000	Common Yellowthroat	comyel	0.2623	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	2283.0
+13	Spectrogram 1	1	2454.0	2457.0	0	15000	Common Yellowthroat	comyel	0.4511	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	2454.0
+14	Spectrogram 1	1	2484.0	2487.0	0	15000	Common Yellowthroat	comyel	0.3432	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	2484.0
+15	Spectrogram 1	1	2502.0	2505.0	0	15000	Common Yellowthroat	comyel	0.3514	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	2502.0
+16	Spectrogram 1	1	3030.0	3033.0	0	15000	Common Yellowthroat	comyel	0.2706	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	3030.0
+17	Spectrogram 1	1	3087.0	3090.0	0	15000	Common Yellowthroat	comyel	0.8424	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	3087.0
+18	Spectrogram 1	1	3228.0	3231.0	0	15000	Horned Lark	horlar	0.2950	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	3228.0
+19	Spectrogram 1	1	3450.0	3453.0	0	15000	Common Yellowthroat	comyel	0.3759	D:\AcousticMonitoringData\ELDON9_Data\Week20\Remaining\ELDON9_20250531_055102.wav	3450.0

@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3.0	6.0	0	15000	Eastern Meadowlark	easmea	0.0869	D:\AcousticMonitoringData\ELDON3_Data\Week19\ELDON3_20250517_201902.wav	3.0
+2	Spectrogram 1	1	69.0	72.0	0	15000	Field Sparrow	fiespa	0.0586	D:\AcousticMonitoringData\ELDON3_Data\Week19\ELDON3_20250517_201902.wav	69.0
+3	Spectrogram 1	1	108.0	111.0	0	15000	Eastern Meadowlark	easmea	0.0872	D:\AcousticMonitoringData\ELDON3_Data\Week19\ELDON3_20250517_201902.wav	108.0
+4	Spectrogram 1	1	132.0	135.0	0	15000	Eastern Meadowlark	easmea	0.0595	D:\AcousticMonitoringData\ELDON3_Data\Week19\ELDON3_20250517_201902.wav	132.0
+5	Spectrogram 1	1	147.0	150.0	0	15000	Common Yellowthroat	comyel	0.1161	D:\AcousticMonitoringData\ELDON3_Data\Week19\ELDON3_20250517_201902.wav	147.0
+6	Spectrogram 1	1	375.0	378.0	0	15000	Eastern Meadowlark	easmea	0.0527	D:\AcousticMonitoringData\ELDON3_Data\Week19\ELDON3_20250517_201902.wav	375.0
+7	Spectrogram 1	1	615.0	618.0	0	15000	Upland Sandpiper	uplsan	0.0563	D:\AcousticMonitoringData\ELDON3_Data\Week19\ELDON3_20250517_201902.wav	615.0
+8	Spectrogram 1	1	624.0	627.0	0	15000	Eastern Meadowlark	easmea	0.0647	D:\AcousticMonitoringData\ELDON3_Data\Week19\ELDON3_20250517_201902.wav	624.0
+9	Spectrogram 1	1	666.0	669.0	0	15000	Eastern Meadowlark	easmea	0.3845	D:\AcousticMonitoringData\ELDON3_Data\Week19\ELDON3_20250517_201902.wav	666.0
+10	Spectrogram 1	1	879.0	882.0	0	15000	Field Sparrow	fiespa	0.1047	D:\AcousticMonitoringData\ELDON3_Data\Week19\ELDON3_20250517_201902.wav	879.0

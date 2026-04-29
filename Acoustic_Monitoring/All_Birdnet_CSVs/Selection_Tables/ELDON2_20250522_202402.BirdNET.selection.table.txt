@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	27.0	30.0	0	15000	Horned Lark	horlar	0.0667	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	27.0
+2	Spectrogram 1	1	102.0	105.0	0	15000	Eastern Meadowlark	easmea	0.0627	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	102.0
+3	Spectrogram 1	1	426.0	429.0	0	15000	Eastern Meadowlark	easmea	0.6268	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	426.0
+4	Spectrogram 1	1	552.0	555.0	0	15000	Horned Lark	horlar	0.0652	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	552.0
+5	Spectrogram 1	1	732.0	735.0	0	15000	Eastern Meadowlark	easmea	0.1173	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	732.0
+6	Spectrogram 1	1	861.0	864.0	0	15000	Common Yellowthroat	comyel	0.1393	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	861.0
+7	Spectrogram 1	1	1101.0	1104.0	0	15000	Horned Lark	horlar	0.0580	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	1101.0
+8	Spectrogram 1	1	1686.0	1689.0	0	15000	Upland Sandpiper	uplsan	0.0547	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	1686.0
+9	Spectrogram 1	1	2022.0	2025.0	0	15000	Horned Lark	horlar	0.0652	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	2022.0
+10	Spectrogram 1	1	2157.0	2160.0	0	15000	Horned Lark	horlar	0.0691	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	2157.0
+11	Spectrogram 1	1	2412.0	2415.0	0	15000	Horned Lark	horlar	0.0571	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	2412.0
+12	Spectrogram 1	1	2736.0	2739.0	0	15000	Song Sparrow	sonspa	0.0510	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	2736.0
+13	Spectrogram 1	1	2820.0	2823.0	0	15000	Song Sparrow	sonspa	0.0900	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	2820.0
+14	Spectrogram 1	1	2943.0	2946.0	0	15000	Common Yellowthroat	comyel	0.0521	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250522_202402.wav	2943.0

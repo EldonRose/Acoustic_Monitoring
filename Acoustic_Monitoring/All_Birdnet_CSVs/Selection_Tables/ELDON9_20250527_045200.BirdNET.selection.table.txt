@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1224.0	1227.0	0	15000	Field Sparrow	fiespa	0.5346	D:\AcousticMonitoringData\ELDON9_Data\Week20\ELDON9_20250527_045200.wav	1224.0
+2	Spectrogram 1	1	1326.0	1329.0	0	15000	Field Sparrow	fiespa	0.5554	D:\AcousticMonitoringData\ELDON9_Data\Week20\ELDON9_20250527_045200.wav	1326.0
+3	Spectrogram 1	1	2919.0	2922.0	0	15000	Common Yellowthroat	comyel	0.3422	D:\AcousticMonitoringData\ELDON9_Data\Week20\ELDON9_20250527_045200.wav	2919.0
+4	Spectrogram 1	1	3168.0	3171.0	0	15000	Common Yellowthroat	comyel	0.2815	D:\AcousticMonitoringData\ELDON9_Data\Week20\ELDON9_20250527_045200.wav	3168.0
+5	Spectrogram 1	1	3363.0	3366.0	0	15000	Field Sparrow	fiespa	0.3778	D:\AcousticMonitoringData\ELDON9_Data\Week20\ELDON9_20250527_045200.wav	3363.0
+6	Spectrogram 1	1	3549.0	3552.0	0	15000	Field Sparrow	fiespa	0.8897	D:\AcousticMonitoringData\ELDON9_Data\Week20\ELDON9_20250527_045200.wav	3549.0
+7	Spectrogram 1	1	3552.0	3555.0	0	15000	Field Sparrow	fiespa	0.4243	D:\AcousticMonitoringData\ELDON9_Data\Week20\ELDON9_20250527_045200.wav	3552.0
+8	Spectrogram 1	1	3567.0	3570.0	0	15000	Field Sparrow	fiespa	0.8825	D:\AcousticMonitoringData\ELDON9_Data\Week20\ELDON9_20250527_045200.wav	3567.0

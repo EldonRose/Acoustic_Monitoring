@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	24.0	27.0	0	15000	Field Sparrow	fiespa	0.0590	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	24.0
+2	Spectrogram 1	1	57.0	60.0	0	15000	Blue Grosbeak	blugrb1	0.0585	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	57.0
+3	Spectrogram 1	1	69.0	72.0	0	15000	Blue Grosbeak	blugrb1	0.0539	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	69.0
+4	Spectrogram 1	1	87.0	90.0	0	15000	Eastern Meadowlark	easmea	0.0514	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	87.0
+5	Spectrogram 1	1	324.0	327.0	0	15000	Blue Grosbeak	blugrb1	0.0668	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	324.0
+6	Spectrogram 1	1	330.0	333.0	0	15000	Field Sparrow	fiespa	0.0837	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	330.0
+7	Spectrogram 1	1	339.0	342.0	0	15000	Blue Grosbeak	blugrb1	0.0518	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	339.0
+8	Spectrogram 1	1	366.0	369.0	0	15000	Blue Grosbeak	blugrb1	0.0710	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	366.0
+9	Spectrogram 1	1	372.0	375.0	0	15000	Blue Grosbeak	blugrb1	0.0573	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	372.0
+10	Spectrogram 1	1	381.0	384.0	0	15000	Eastern Meadowlark	easmea	0.0530	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	381.0
+11	Spectrogram 1	1	417.0	420.0	0	15000	Blue Grosbeak	blugrb1	0.0533	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	417.0
+12	Spectrogram 1	1	453.0	456.0	0	15000	Field Sparrow	fiespa	0.2426	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	453.0
+13	Spectrogram 1	1	468.0	471.0	0	15000	Field Sparrow	fiespa	0.0528	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	468.0
+14	Spectrogram 1	1	543.0	546.0	0	15000	Eastern Meadowlark	easmea	0.0921	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	543.0
+15	Spectrogram 1	1	567.0	570.0	0	15000	Eastern Meadowlark	easmea	0.0890	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	567.0
+16	Spectrogram 1	1	582.0	585.0	0	15000	Eastern Meadowlark	easmea	0.0515	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	582.0
+17	Spectrogram 1	1	645.0	648.0	0	15000	Blue Grosbeak	blugrb1	0.0844	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	645.0
+18	Spectrogram 1	1	696.0	699.0	0	15000	Common Yellowthroat	comyel	0.0710	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	696.0
+19	Spectrogram 1	1	705.0	708.0	0	15000	Common Yellowthroat	comyel	0.0660	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	705.0
+20	Spectrogram 1	1	720.0	723.0	0	15000	Eastern Meadowlark	easmea	0.0521	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	720.0
+21	Spectrogram 1	1	735.0	738.0	0	15000	Eastern Meadowlark	easmea	0.0676	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	735.0
+22	Spectrogram 1	1	744.0	747.0	0	15000	Eastern Meadowlark	easmea	0.0819	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	744.0
+23	Spectrogram 1	1	1044.0	1047.0	0	15000	Common Yellowthroat	comyel	0.0563	D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250519_202102.wav	1044.0

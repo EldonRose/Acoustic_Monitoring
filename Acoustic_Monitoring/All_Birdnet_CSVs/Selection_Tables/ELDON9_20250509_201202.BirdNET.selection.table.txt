@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	402.0	405.0	0	15000	Horned Lark	horlar	0.0752	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250509_201202.wav	402.0
+2	Spectrogram 1	1	726.0	729.0	0	15000	Horned Lark	horlar	0.0667	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250509_201202.wav	726.0
+3	Spectrogram 1	1	1050.0	1053.0	0	15000	Common Yellowthroat	comyel	0.1050	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250509_201202.wav	1050.0
+4	Spectrogram 1	1	1269.0	1272.0	0	15000	Field Sparrow	fiespa	0.1231	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250509_201202.wav	1269.0
+5	Spectrogram 1	1	1272.0	1275.0	0	15000	Field Sparrow	fiespa	0.0860	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250509_201202.wav	1272.0
+6	Spectrogram 1	1	1275.0	1278.0	0	15000	Field Sparrow	fiespa	0.0545	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250509_201202.wav	1275.0
+7	Spectrogram 1	1	3087.0	3090.0	0	15000	Horned Lark	horlar	0.0569	D:\AcousticMonitoringData\ELDON9_Data\Week18\ELDON9_20250509_201202.wav	3087.0

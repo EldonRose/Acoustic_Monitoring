@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2526.0	2529.0	0	15000	Horned Lark	horlar	0.0579	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	2526.0
+2	Spectrogram 1	1	2745.0	2748.0	0	15000	Common Yellowthroat	comyel	0.1412	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	2745.0
+3	Spectrogram 1	1	3081.0	3084.0	0	15000	Common Yellowthroat	comyel	0.4524	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3081.0
+4	Spectrogram 1	1	3093.0	3096.0	0	15000	Common Yellowthroat	comyel	0.3298	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3093.0
+5	Spectrogram 1	1	3138.0	3141.0	0	15000	Common Yellowthroat	comyel	0.0573	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3138.0
+6	Spectrogram 1	1	3189.0	3192.0	0	15000	Eastern Meadowlark	easmea	0.8438	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3189.0
+7	Spectrogram 1	1	3195.0	3198.0	0	15000	Eastern Meadowlark	easmea	0.8084	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3195.0
+8	Spectrogram 1	1	3204.0	3207.0	0	15000	Eastern Meadowlark	easmea	0.4890	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3204.0
+9	Spectrogram 1	1	3210.0	3213.0	0	15000	Eastern Meadowlark	easmea	0.6790	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3210.0
+10	Spectrogram 1	1	3219.0	3222.0	0	15000	Eastern Meadowlark	easmea	0.8101	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3219.0
+11	Spectrogram 1	1	3228.0	3231.0	0	15000	Eastern Meadowlark	easmea	0.7933	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3228.0
+12	Spectrogram 1	1	3237.0	3240.0	0	15000	Eastern Meadowlark	easmea	0.1246	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3237.0
+13	Spectrogram 1	1	3246.0	3249.0	0	15000	Eastern Meadowlark	easmea	0.5050	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3246.0
+14	Spectrogram 1	1	3249.0	3252.0	0	15000	Eastern Meadowlark	easmea	0.2552	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3249.0
+15	Spectrogram 1	1	3264.0	3267.0	0	15000	Eastern Meadowlark	easmea	0.6889	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3264.0
+16	Spectrogram 1	1	3300.0	3303.0	0	15000	Eastern Meadowlark	easmea	0.1392	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3300.0
+17	Spectrogram 1	1	3351.0	3354.0	0	15000	Eastern Meadowlark	easmea	0.4493	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3351.0
+18	Spectrogram 1	1	3354.0	3357.0	0	15000	Eastern Meadowlark	easmea	0.1733	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3354.0
+19	Spectrogram 1	1	3360.0	3363.0	0	15000	Eastern Meadowlark	easmea	0.2487	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3360.0
+20	Spectrogram 1	1	3363.0	3366.0	0	15000	Eastern Meadowlark	easmea	0.1869	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3363.0
+21	Spectrogram 1	1	3369.0	3372.0	0	15000	Eastern Meadowlark	easmea	0.3205	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3369.0
+22	Spectrogram 1	1	3372.0	3375.0	0	15000	Eastern Meadowlark	easmea	0.1125	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3372.0
+23	Spectrogram 1	1	3378.0	3381.0	0	15000	Eastern Meadowlark	easmea	0.2003	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3378.0
+24	Spectrogram 1	1	3384.0	3387.0	0	15000	Eastern Meadowlark	easmea	0.5540	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3384.0
+25	Spectrogram 1	1	3387.0	3390.0	0	15000	Eastern Meadowlark	easmea	0.4081	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3387.0
+26	Spectrogram 1	1	3399.0	3402.0	0	15000	Eastern Meadowlark	easmea	0.0630	D:\AcousticMonitoringData\ELDON2_Data\Week20\ELDON2_20250528_045200.wav	3399.0
