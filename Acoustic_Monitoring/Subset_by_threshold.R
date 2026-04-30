@@ -22,11 +22,25 @@ eldon1 <- list.files(path="C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/A
   bind_rows
 
   # 3. Add Recorder# as column to each data frame
+
+eldon1$Recorder <- "ELDON1"
+
   # 4. Add sample ID to each call row in data frame
+
+eldon1$ID <- 1:nrow(eldon1)
+
     # SAVE DATA FRAME AS BACKUP CSV
+
+write.csv(eldon1, "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/Eldon1_Calls_2025.csv", row.names = FALSE)
+
   # 5. Subset to include only data above each spp's threshold
-  # 6. Add subset data frames to master dataframe
+    # 5.1 Subset by spp:
+e1.blugrb1 <- subset(eldon1, eldon1$`Common name` == "Blue Grosbeak")
+    # 5.2 Subset by spp confidence threshold
+e1.blugrb1.ct <- subset(e1.blugrb1, e1.blugrb1$Confidence >= 0.617)
+
 
 # To do later #
+  # 6. Add subset data frames to master dataframe
   # 7. Add treatments
 
