@@ -1,6 +1,7 @@
 # Subset by Prediction Probability
 
 setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring")
+setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON1")
 
 # Confidence Thresholds by Probability (p=0.9) for focal spp:
   # Blue Grosbeak (blugrb1) = 0.617
@@ -15,6 +16,11 @@ setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring")
   # 1. MANUALLY add date column to all CSVs
   # 2. Import CSVs as data frames together by RecorderNumber
     # https://www.statology.org/r-merge-csv-files/
+
+eldon1 <- list.files(path="C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON1") %>% 
+  lapply(read_csv) %>% 
+  bind_rows
+
   # 3. Add Recorder# as column to each data frame
   # 4. Add sample ID to each call row in data frame
     # SAVE DATA FRAME AS BACKUP CSV
