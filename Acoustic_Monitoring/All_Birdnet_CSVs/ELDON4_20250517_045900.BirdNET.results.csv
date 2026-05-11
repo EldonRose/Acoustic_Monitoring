@@ -1,9 +1,9 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-846.0,849.0,Eremophila alpestris,Horned Lark,0.3058,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav
-1218.0,1221.0,Eremophila alpestris,Horned Lark,0.0818,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav
-1461.0,1464.0,Eremophila alpestris,Horned Lark,0.1000,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav
-2127.0,2130.0,Sturnella magna,Eastern Meadowlark,0.0554,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav
-2256.0,2259.0,Sturnella magna,Eastern Meadowlark,0.1067,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav
-2274.0,2277.0,Sturnella magna,Eastern Meadowlark,0.0780,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav
-2307.0,2310.0,Sturnella magna,Eastern Meadowlark,0.0911,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav
-3351.0,3354.0,Geothlypis trichas,Common Yellowthroat,0.1667,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav
+Start (s),End (s),Scientific name,Common name,Confidence,File,Date
+846,849,Eremophila alpestris,Horned Lark,0.3058,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav,20250517
+1218,1221,Eremophila alpestris,Horned Lark,0.0818,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav,20250517
+1461,1464,Eremophila alpestris,Horned Lark,0.1,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav,20250517
+2127,2130,Sturnella magna,Eastern Meadowlark,0.0554,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav,20250517
+2256,2259,Sturnella magna,Eastern Meadowlark,0.1067,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav,20250517
+2274,2277,Sturnella magna,Eastern Meadowlark,0.078,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav,20250517
+2307,2310,Sturnella magna,Eastern Meadowlark,0.0911,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav,20250517
+3351,3354,Geothlypis trichas,Common Yellowthroat,0.1667,D:\AcousticMonitoringData\ELDON4_Data\Week19\ELDON4_20250517_045900.wav,20250517

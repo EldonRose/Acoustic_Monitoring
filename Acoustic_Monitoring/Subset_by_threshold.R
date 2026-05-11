@@ -2,6 +2,8 @@
 
 setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring")
 setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON1")
+setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON2")
+setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON3")
 
 # Confidence Thresholds by Probability (p=0.9) for focal spp:
   # Blue Grosbeak (blugrb1) = 0.617
@@ -44,3 +46,18 @@ e1.blugrb1.ct <- subset(e1.blugrb1, e1.blugrb1$Confidence >= 0.617)
   # 6. Add subset data frames to master dataframe
   # 7. Add treatments
 
+# ELDON2
+eldon2 <- list.files(path="C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON2") %>% 
+  lapply(read_csv) %>% 
+  bind_rows
+eldon2$Recorder <- "ELDON2"
+eldon2$ID <- 1:nrow(eldon2)
+write.csv(eldon2, "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/Eldon2_Calls_2025.csv", row.names = FALSE)
+
+# ELDON3
+eldon3 <- list.files(path="C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON3") %>% 
+  lapply(read_csv) %>% 
+  bind_rows
+eldon3$Recorder <- "ELDON3"
+eldon3$ID <- 1:nrow(eldon3)
+write.csv(eldon3, "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/Eldon3_Calls_2025.csv", row.names = FALSE)
