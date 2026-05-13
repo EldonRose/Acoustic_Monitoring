@@ -1,15 +1,15 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-111.0,114.0,Geothlypis trichas,Common Yellowthroat,0.0820,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-189.0,192.0,Geothlypis trichas,Common Yellowthroat,0.2602,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-201.0,204.0,Sturnella magna,Eastern Meadowlark,0.0739,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-330.0,333.0,Geothlypis trichas,Common Yellowthroat,0.0689,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-696.0,699.0,Geothlypis trichas,Common Yellowthroat,0.0774,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-765.0,768.0,Geothlypis trichas,Common Yellowthroat,0.0719,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-819.0,822.0,Geothlypis trichas,Common Yellowthroat,0.0636,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-1317.0,1320.0,Geothlypis trichas,Common Yellowthroat,0.0642,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-1326.0,1329.0,Bartramia longicauda,Upland Sandpiper,0.1281,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-1668.0,1671.0,Eremophila alpestris,Horned Lark,0.1464,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-1932.0,1935.0,Eremophila alpestris,Horned Lark,0.1163,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-2160.0,2163.0,Eremophila alpestris,Horned Lark,0.0538,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-2187.0,2190.0,Eremophila alpestris,Horned Lark,0.1328,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
-3279.0,3282.0,Eremophila alpestris,Horned Lark,0.1018,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav
+Start (s),End (s),Scientific name,Common name,Confidence,File,Date
+111,114,Geothlypis trichas,Common Yellowthroat,0.082,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+189,192,Geothlypis trichas,Common Yellowthroat,0.2602,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+201,204,Sturnella magna,Eastern Meadowlark,0.0739,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+330,333,Geothlypis trichas,Common Yellowthroat,0.0689,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+696,699,Geothlypis trichas,Common Yellowthroat,0.0774,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+765,768,Geothlypis trichas,Common Yellowthroat,0.0719,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+819,822,Geothlypis trichas,Common Yellowthroat,0.0636,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+1317,1320,Geothlypis trichas,Common Yellowthroat,0.0642,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+1326,1329,Bartramia longicauda,Upland Sandpiper,0.1281,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+1668,1671,Eremophila alpestris,Horned Lark,0.1464,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+1932,1935,Eremophila alpestris,Horned Lark,0.1163,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+2160,2163,Eremophila alpestris,Horned Lark,0.0538,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+2187,2190,Eremophila alpestris,Horned Lark,0.1328,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502
+3279,3282,Eremophila alpestris,Horned Lark,0.1018,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250502_200602.wav,20250502

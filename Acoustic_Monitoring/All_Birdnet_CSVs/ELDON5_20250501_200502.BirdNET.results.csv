@@ -1,7 +1,7 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-63.0,66.0,Spizella pusilla,Field Sparrow,0.0550,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav
-141.0,144.0,Geothlypis trichas,Common Yellowthroat,0.0541,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav
-552.0,555.0,Spizella pusilla,Field Sparrow,0.0643,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav
-552.0,555.0,Sturnella magna,Eastern Meadowlark,0.0596,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav
-999.0,1002.0,Geothlypis trichas,Common Yellowthroat,0.0522,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav
-1098.0,1101.0,Geothlypis trichas,Common Yellowthroat,0.0516,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav
+Start (s),End (s),Scientific name,Common name,Confidence,File,Date
+63,66,Spizella pusilla,Field Sparrow,0.055,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav,20250501
+141,144,Geothlypis trichas,Common Yellowthroat,0.0541,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav,20250501
+552,555,Spizella pusilla,Field Sparrow,0.0643,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav,20250501
+552,555,Sturnella magna,Eastern Meadowlark,0.0596,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav,20250501
+999,1002,Geothlypis trichas,Common Yellowthroat,0.0522,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav,20250501
+1098,1101,Geothlypis trichas,Common Yellowthroat,0.0516,D:\AcousticMonitoringData\ELDON5_Data\Week17\ELDON5_20250501_200502.wav,20250501

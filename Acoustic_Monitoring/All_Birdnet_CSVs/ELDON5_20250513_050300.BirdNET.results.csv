@@ -1,9 +1,9 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-1281.0,1284.0,Eremophila alpestris,Horned Lark,0.0111,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav
-2175.0,2178.0,Geothlypis trichas,Common Yellowthroat,0.0109,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav
-2178.0,2181.0,Geothlypis trichas,Common Yellowthroat,0.0209,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav
-2577.0,2580.0,Geothlypis trichas,Common Yellowthroat,0.0160,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav
-2622.0,2625.0,Geothlypis trichas,Common Yellowthroat,0.0116,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav
-2763.0,2766.0,Eremophila alpestris,Horned Lark,0.0176,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav
-2862.0,2865.0,Eremophila alpestris,Horned Lark,0.0749,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav
-2874.0,2877.0,Geothlypis trichas,Common Yellowthroat,0.0140,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav
+Start (s),End (s),Scientific name,Common name,Confidence,File,Date
+1281,1284,Eremophila alpestris,Horned Lark,0.0111,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav,20250513
+2175,2178,Geothlypis trichas,Common Yellowthroat,0.0109,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav,20250513
+2178,2181,Geothlypis trichas,Common Yellowthroat,0.0209,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav,20250513
+2577,2580,Geothlypis trichas,Common Yellowthroat,0.016,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav,20250513
+2622,2625,Geothlypis trichas,Common Yellowthroat,0.0116,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav,20250513
+2763,2766,Eremophila alpestris,Horned Lark,0.0176,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav,20250513
+2862,2865,Eremophila alpestris,Horned Lark,0.0749,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav,20250513
+2874,2877,Geothlypis trichas,Common Yellowthroat,0.014,D:/AcousticMonitoringData/ELDON5_Data/Week18\ELDON5_20250513_050300.wav,20250513

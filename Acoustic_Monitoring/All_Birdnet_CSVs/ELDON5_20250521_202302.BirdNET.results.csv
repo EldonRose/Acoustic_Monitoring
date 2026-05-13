@@ -1,7 +1,7 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-66.0,69.0,Sturnella magna,Eastern Meadowlark,0.5840,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav
-69.0,72.0,Sturnella magna,Eastern Meadowlark,0.2439,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav
-834.0,837.0,Geothlypis trichas,Common Yellowthroat,0.0573,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav
-3288.0,3291.0,Geothlypis trichas,Common Yellowthroat,0.0565,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav
-3303.0,3306.0,Geothlypis trichas,Common Yellowthroat,0.1089,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav
-3597.0,3600.0,Geothlypis trichas,Common Yellowthroat,0.0725,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav
+Start (s),End (s),Scientific name,Common name,Confidence,File,Date
+66,69,Sturnella magna,Eastern Meadowlark,0.584,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav,20250521
+69,72,Sturnella magna,Eastern Meadowlark,0.2439,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav,20250521
+834,837,Geothlypis trichas,Common Yellowthroat,0.0573,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav,20250521
+3288,3291,Geothlypis trichas,Common Yellowthroat,0.0565,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav,20250521
+3303,3306,Geothlypis trichas,Common Yellowthroat,0.1089,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav,20250521
+3597,3600,Geothlypis trichas,Common Yellowthroat,0.0725,D:\AcousticMonitoringData\ELDON5_Data\Week19\ELDON5_20250521_202302.wav,20250521
