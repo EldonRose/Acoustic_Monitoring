@@ -5,6 +5,7 @@ setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/A
 setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON2")
 setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON3")
 setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON4")
+setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON5")
 
 # Confidence Thresholds by Probability (p=0.9) for focal spp:
   # Blue Grosbeak (blugrb1) = 0.617
@@ -70,3 +71,11 @@ eldon4 <- list.files(path="C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/A
 eldon4$Recorder <- "ELDON4"
 eldon4$ID <- 1:nrow(eldon4)
 write.csv(eldon4, "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/Eldon4_Calls_2025.csv", row.names = FALSE)
+
+# ELDON5
+eldon5 <- list.files(path="C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON5") %>% 
+  lapply(read_csv) %>% 
+  bind_rows
+eldon5$Recorder <- "ELDON5"
+eldon5$ID <- 1:nrow(eldon5)
+write.csv(eldon5, "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/Eldon5_Calls_2025.csv", row.names = FALSE)
