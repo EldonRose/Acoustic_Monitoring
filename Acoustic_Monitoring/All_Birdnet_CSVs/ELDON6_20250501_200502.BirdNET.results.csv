@@ -1,15 +1,15 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-54.0,57.0,Spizella pusilla,Field Sparrow,0.0572,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-66.0,69.0,Spizella pusilla,Field Sparrow,0.0630,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-108.0,111.0,Spizella pusilla,Field Sparrow,0.0614,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-117.0,120.0,Spizella pusilla,Field Sparrow,0.1146,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-231.0,234.0,Spizella pusilla,Field Sparrow,0.0645,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-252.0,255.0,Spizella pusilla,Field Sparrow,0.0510,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-399.0,402.0,Spizella pusilla,Field Sparrow,0.1440,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-780.0,783.0,Sturnella magna,Eastern Meadowlark,0.3389,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-945.0,948.0,Spizella pusilla,Field Sparrow,0.0560,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-948.0,951.0,Spizella pusilla,Field Sparrow,0.1674,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-951.0,954.0,Spizella pusilla,Field Sparrow,0.1049,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-1176.0,1179.0,Spizella pusilla,Field Sparrow,0.0982,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-1179.0,1182.0,Spizella pusilla,Field Sparrow,0.0554,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
-1347.0,1350.0,Eremophila alpestris,Horned Lark,0.1204,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav
+Start (s),End (s),Scientific name,Common name,Confidence,File,Date
+54,57,Spizella pusilla,Field Sparrow,0.0572,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+66,69,Spizella pusilla,Field Sparrow,0.063,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+108,111,Spizella pusilla,Field Sparrow,0.0614,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+117,120,Spizella pusilla,Field Sparrow,0.1146,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+231,234,Spizella pusilla,Field Sparrow,0.0645,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+252,255,Spizella pusilla,Field Sparrow,0.051,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+399,402,Spizella pusilla,Field Sparrow,0.144,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+780,783,Sturnella magna,Eastern Meadowlark,0.3389,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+945,948,Spizella pusilla,Field Sparrow,0.056,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+948,951,Spizella pusilla,Field Sparrow,0.1674,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+951,954,Spizella pusilla,Field Sparrow,0.1049,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+1176,1179,Spizella pusilla,Field Sparrow,0.0982,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+1179,1182,Spizella pusilla,Field Sparrow,0.0554,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
+1347,1350,Eremophila alpestris,Horned Lark,0.1204,D:\AcousticMonitoringData\ELDON6_Data\Week17\ELDON6_20250501_200502.wav,20250501
