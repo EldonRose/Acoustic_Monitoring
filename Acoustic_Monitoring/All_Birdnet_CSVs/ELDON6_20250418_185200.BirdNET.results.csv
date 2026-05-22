@@ -1,18 +1,18 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-1593.0,1596.0,Sturnella magna,Eastern Meadowlark,0.0521,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1599.0,1602.0,Sturnella magna,Eastern Meadowlark,0.0656,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1608.0,1611.0,Sturnella magna,Eastern Meadowlark,0.6002,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1641.0,1644.0,Sturnella magna,Eastern Meadowlark,0.1938,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1647.0,1650.0,Sturnella magna,Eastern Meadowlark,0.0821,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1671.0,1674.0,Sturnella magna,Eastern Meadowlark,0.4771,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1680.0,1683.0,Sturnella magna,Eastern Meadowlark,0.3382,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1686.0,1689.0,Sturnella magna,Eastern Meadowlark,0.6693,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1695.0,1698.0,Sturnella magna,Eastern Meadowlark,0.6885,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1716.0,1719.0,Sturnella magna,Eastern Meadowlark,0.0711,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1731.0,1734.0,Sturnella magna,Eastern Meadowlark,0.2364,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1836.0,1839.0,Sturnella magna,Eastern Meadowlark,0.9217,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-1926.0,1929.0,Spizella pusilla,Field Sparrow,0.0536,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-2700.0,2703.0,Bartramia longicauda,Upland Sandpiper,0.4893,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-2703.0,2706.0,Bartramia longicauda,Upland Sandpiper,0.1735,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-3393.0,3396.0,Sturnella magna,Eastern Meadowlark,0.1429,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
-3417.0,3420.0,Sturnella magna,Eastern Meadowlark,0.7554,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav
+Start (s),End (s),Scientific name,Common name,Confidence,File,Date
+1593,1596,Sturnella magna,Eastern Meadowlark,0.0521,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1599,1602,Sturnella magna,Eastern Meadowlark,0.0656,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1608,1611,Sturnella magna,Eastern Meadowlark,0.6002,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1641,1644,Sturnella magna,Eastern Meadowlark,0.1938,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1647,1650,Sturnella magna,Eastern Meadowlark,0.0821,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1671,1674,Sturnella magna,Eastern Meadowlark,0.4771,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1680,1683,Sturnella magna,Eastern Meadowlark,0.3382,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1686,1689,Sturnella magna,Eastern Meadowlark,0.6693,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1695,1698,Sturnella magna,Eastern Meadowlark,0.6885,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1716,1719,Sturnella magna,Eastern Meadowlark,0.0711,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1731,1734,Sturnella magna,Eastern Meadowlark,0.2364,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1836,1839,Sturnella magna,Eastern Meadowlark,0.9217,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+1926,1929,Spizella pusilla,Field Sparrow,0.0536,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+2700,2703,Bartramia longicauda,Upland Sandpiper,0.4893,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+2703,2706,Bartramia longicauda,Upland Sandpiper,0.1735,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+3393,3396,Sturnella magna,Eastern Meadowlark,0.1429,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
+3417,3420,Sturnella magna,Eastern Meadowlark,0.7554,E:\AcousticMonitoringData\ELDON6_Data\Week15\ELDON6_20250418_185200.wav,20250418
