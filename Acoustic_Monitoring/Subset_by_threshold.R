@@ -37,17 +37,6 @@ eldon1$ID <- 1:nrow(eldon1)
 
 write.csv(eldon1, "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/Eldon1_Calls_2025.csv", row.names = FALSE)
 
-  # 5. Subset to include only data above each spp's threshold
-    # 5.1 Subset by spp:
-e1.blugrb1 <- subset(eldon1, eldon1$`Common name` == "Blue Grosbeak")
-    # 5.2 Subset by spp confidence threshold
-e1.blugrb1.ct <- subset(e1.blugrb1, e1.blugrb1$Confidence >= 0.617)
-
-
-# To do later #
-  # 6. Add subset data frames to master dataframe
-  # 7. Add treatments
-
 # ELDON2
 eldon2 <- list.files(path="C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/All_Birdnet_CSVs/ELDON2") %>% 
   lapply(read_csv) %>% 
@@ -79,3 +68,28 @@ eldon5 <- list.files(path="C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/A
 eldon5$Recorder <- "ELDON5"
 eldon5$ID <- 1:nrow(eldon5)
 write.csv(eldon5, "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/Eldon5_Calls_2025.csv", row.names = FALSE)
+
+# 5. Add subset data frames to master dataframe
+
+# 6. Subset master to include only data above each spp's threshold
+# 6.1 Subset by spp:
+e1.blugrb1 <- subset(eldon1, eldon1$`Common name` == "Blue Grosbeak")
+# 5.2 Subset by spp confidence threshold
+e1.blugrb1.ct <- subset(e1.blugrb1, e1.blugrb1$Confidence >= 0.617)
+
+# To do later #
+
+# 7. Add treatments
+
+# Prototype Code for automating workflow!
+  # References:
+# https://birdnet-team.github.io/birdnetR/articles/birdnetR.html
+
+library(birdnetR)
+
+  # Initialize the TensorFlow Lite model
+model <- birdnet_model_tflite("v2.4")
+
+  # Path to an example audio file (replace with your own file path)
+audio_path <- "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/TEST2.wav"
+predictions <- predict_species_from_audio_file(model, audio_path, min_confidence = 0.3, keep_empty = FALSE)
