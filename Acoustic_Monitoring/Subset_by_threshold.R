@@ -169,7 +169,3 @@ write.csv(xrds.final, "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acous
 
 # To do later #
   # 6. Add treatments
-  # Visualizations: 
-    # Calls by spp pie charts/bar charts
-    # Call number time series with treatments
-    # Stats compare calls between Hall N/S? After 2026?
