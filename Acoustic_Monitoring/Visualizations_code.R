@@ -40,6 +40,10 @@ xrds$Treatment <- ifelse(
   )
 )
 
+# New ID column
+hall$ID <- 1:nrow(hall)
+xrds$ID <- 1:nrow(xrds)
+
 # Time series:
   # Re-format Dates
     hall$date <- as.character(hall$Date)
@@ -49,6 +53,26 @@ xrds$Treatment <- ifelse(
 
 # Line Frequency plot for all sp (needs transformations):
 ggplot(hall, aes(Date, colour = Common.name)) + geom_freqpoly(binwidth = 7)
+ggplot(xrds, aes(Date, colour = Common.name)) + geom_freqpoly(binwidth = 7)
+
+# Pie chart attempt
+ggplot(hall, aes(y=ID, fill=Common.name)) +
+  geom_bar(stat="count", width=1) +
+  coord_polar("y", start=0) +
+  theme_void() +
+  #geom_text(aes(label = paste0(ID, "%")), position = position_stack(vjust=0.5)) + aes()
+  labs(x = NULL, y = NULL, fill = NULL) +
+  scale_fill_manual(values=c("mediumblue", "gold", "orange", "gray60", "tan"))
+ggsave("hall_pie.png")
+
+ggplot(xrds, aes(y=ID, fill=Common.name)) +
+  geom_bar(stat="count", width=1) +
+  coord_polar("y", start=0) +
+  theme_void() +
+  #geom_text(aes(label = paste0(ID, "%")), position = position_stack(vjust=0.5)) + aes()
+  labs(x = NULL, y = NULL, fill = NULL) +
+  scale_fill_manual(values=c("mediumblue", "gold", "orange", "gray60", "tan"))
+ggsave("xrds_pie.png")
 
 # Subset by sp. 
 blugrb1.hall <- subset(hall, hall$Common.name == "Blue Grosbeak")
