@@ -14,8 +14,6 @@ setwd("C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/A
 library(tidyft)
 library(dplyr)
 
-
-
 # Data processing: Hall hayfields: 
   # 1. Manually add date column to all CSVs
   # 2. Import CSVs as data frames together by Recorder Number
