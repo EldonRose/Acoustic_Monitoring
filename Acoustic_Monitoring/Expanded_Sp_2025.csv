@@ -13,9 +13,13 @@
 12,Melospiza melodia,Song Sparrow
 13,Agelaius phoeniceus,Red-winged Blackbird
 14,Quiscalus quiscula,Common Grackle
+<<<<<<< HEAD
 15,Branta canadensis,Canada Goose
 16,Molothrus ater,Brown-headed Cowbird
 17,Dryobates pubescens,Downy Woodpecker
+=======
+16,Molothrus ater,Brown-headed Cowbird
+>>>>>>> 125a3cb4862debb5d6759b3cd355d8d98a4514af
 18,Spinus tristis,American Goldfinch
 19,Sialia sialis,Eastern Bluebird
 20,Pipilo erythrophthalmus,Eastern Towhee
@@ -24,6 +28,7 @@
 23,Sturnus vulgaris,European Starling
 24,Mimus polyglottos,Northern Mockingbird
 25,Polioptila caerulea,Blue-gray Gnatcatcher
+<<<<<<< HEAD
 26,Sitta carolinensis,White-breasted Nuthatch
 27,Haemorhous mexicanus,House Finch
 28,Tachycineta bicolor,Tree Swallow
@@ -62,10 +67,31 @@
 61,Mniotilta varia,Black-and-white Warbler
 62,Columba livia,Rock Pigeon
 63,Hylocichla mustelina,Wood Thrush
+=======
+27,Haemorhous mexicanus,House Finch
+28,Tachycineta bicolor,Tree Swallow
+29,Spizella pusilla,Field Sparrow
+31,Toxostoma rufum,Brown Thrasher
+33,Colaptes auratus,Northern Flicker
+36,Hirundo rustica,Barn Swallow
+39,Passer domesticus,House Sparrow
+41,Corvus ossifragus,Fish Crow
+42,Charadrius vociferus,Killdeer
+45,Coragyps atratus,Black Vulture
+46,Stelgidopteryx serripennis,Northern Rough-winged Swallow
+47,Buteo jamaicensis,Red-tailed Hawk
+51,Buteo lineatus,Red-shouldered Hawk
+52,Dumetella carolinensis,Gray Catbird
+54,Sturnella magna,Eastern Meadowlark
+55,Troglodytes aedon,House Wren
+57,Geothlypis trichas,Common Yellowthroat
+62,Columba livia,Rock Pigeon
+>>>>>>> 125a3cb4862debb5d6759b3cd355d8d98a4514af
 64,Junco hyemalis,Dark-eyed Junco
 65,Meleagris gallopavo,Wild Turkey
 66,Parkesia motacilla,Louisiana Waterthrush
 67,Archilochus colubris,Ruby-throated Hummingbird
+<<<<<<< HEAD
 68,Seiurus aurocapilla,Ovenbird
 69,Tringa melanoleuca,Greater Yellowlegs
 70,Podilymbus podiceps,Pied-billed Grebe
@@ -205,3 +231,34 @@
 1158,Spiza americana,Dickcissel
 1743,Eudocimus albus,White Ibis
 1746,Mycteria americana,Wood Stork
+=======
+69,Tringa melanoleuca,Greater Yellowlegs
+76,Melospiza georgiana,Swamp Sparrow
+78,Haliaeetus leucocephalus,Bald Eagle
+79,Zonotrichia leucophrys,White-crowned Sparrow
+82,Bombycilla cedrorum,Cedar Waxwing
+84,Passerculus sandwichensis,Savannah Sparrow
+87,Tyrannus tyrannus,Eastern Kingbird
+89,Accipiter cooperii,Cooper's Hawk
+90,Tringa flavipes,Lesser Yellowlegs
+100,Falco sparverius,American Kestrel
+103,Setophaga discolor,Prairie Warbler
+112,Passerina cyanea,Indigo Bunting
+120,Buteo platypterus,Broad-winged Hawk
+122,Actitis macularius,Spotted Sandpiper
+129,Circus hudsonius,Northern Harrier
+131,Corvus corax,Common Raven
+133,Tringa solitaria,Solitary Sandpiper
+135,Icterus spurius,Orchard Oriole
+138,Gallinago delicata,Wilson's Snipe
+139,Colinus virginianus,Northern Bobwhite
+145,Eremophila alpestris,Horned Lark
+157,Passerina caerulea,Blue Grosbeak
+160,Falco peregrinus,Peregrine Falcon
+287,Icteria virens,Yellow-breasted Chat
+340,Antrostomus vociferus,Eastern Whip-poor-will
+497,Dolichonyx oryzivorus,Bobolink
+690,Ammodramus savannarum,Grasshopper Sparrow
+1000,Chordeiles minor,Common Nighthawk
+1158,Spiza americana,Dickcissel
+>>>>>>> 125a3cb4862debb5d6759b3cd355d8d98a4514af
