@@ -34,8 +34,8 @@ sp <- sp$X
 
 # Generate a list of files by week:
 wk21.test <- list.files(path="C:/Users/rwetz/Desktop/Week21", full.names = TRUE) 
-wk16.test <- list.files(path="E:/2025_AM_Data/Eldon1/Week16", full.names = TRUE) 
-E1.wk16 <- as.list(wk16.test)
+wk17.test <- list.files(path="E:/2025_AM_Data/Eldon1/Week16", full.names = TRUE) 
+E1.wk17 <- as.list(wk17.test)
 
 # Apply birdNET model to all files in above list to generate birdNET predictions
   # Saved as object with this syntax: Recorder #.week #.year (2-digit)
@@ -45,8 +45,8 @@ E1.wk21.25 <- as.data.frame(E1.wk21.25)
 write.csv(E1.wk21.25, "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/codetest.csv", row.names = FALSE)
   # Replace my path with your own path
 
-E1.wk16.25 <- lapply(E1.wk16, function(x) {E1.test <- predict_species_from_audio_file(model, x, min_confidence = 0.3, filter_species = sp, keep_empty = FALSE)})
-E1.wk16.25 <- as.data.frame(E1.wk16.25)
-write.csv(E1.wk16.25, "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/codetest.csv", row.names = FALSE)
+E1.wk17.25 <- lapply(E1.wk17, function(x) {E1.test <- predict_species_from_audio_file(model, x, min_confidence = 0.3, filter_species = sp, keep_empty = FALSE)})
+E1.wk17.25 <- as.data.frame(E1.wk17.25)
+write.csv(E1.wk17.25, "C:/Users/rwetz/Documents/GitHub/Acoustic_Monitoring/Acoustic_Monitoring/codetest.csv", row.names = FALSE)
 
 
